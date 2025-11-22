@@ -1,0 +1,4 @@
+---
+geometry_msgs/Point[] aruco_pos
+---
+float32 num_found
